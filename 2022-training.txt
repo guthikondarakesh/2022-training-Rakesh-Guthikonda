@@ -1,7 +1,3 @@
-Assignment: Intro to GitHub
-Download the github command line tool from the link: https://cli.github.com/
-Use file 2022-training.txt for github commits.
-Perform step 3-7 and 15-20 using the command line. Take screenshots which show each of the steps.
 Create a new repo 2022-training-<yourfirstname-lastname> with your springml account under your organization. Don’t use springml-code.
 Don't create any file at time of creating the repo.
 Clone the repo in your local.
@@ -13,5 +9,4 @@ Push the changes to the feature branch. List all the branches.
 Raise a PR.
 Give your manager access to repo.
 Don't approve the PR
-===
-++++++++
+done
